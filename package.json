@@ -1,0 +1,15 @@
+{
+  "name": "start-redux",
+  "version": "1.0.0",
+  "description": "redux try",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "main": "index.js",
+  "author": "Hasan",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.1"
+  }
+}
